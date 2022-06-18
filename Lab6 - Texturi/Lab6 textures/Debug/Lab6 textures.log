@@ -1,0 +1,4 @@
+﻿  Lab6 textures.cpp
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab6 textures\Lab6 textures\Lab6 textures.cpp(696,21): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab6 textures\Lab6 textures\Lab6 textures.cpp(702,21): warning C4305: '-=': truncation from 'double' to 'float'
+  Lab6 textures.vcxproj -> D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab6 textures\Debug\Lab6 textures.exe
