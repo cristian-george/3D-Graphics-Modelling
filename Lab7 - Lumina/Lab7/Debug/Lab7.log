@@ -1,0 +1,20 @@
+﻿  Lab7.cpp
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(369,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(371,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(392,15): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(396,15): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(400,15): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(404,15): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(408,15): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(412,15): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(546,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Lab7\Lab7.cpp(547,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Lab7.vcxproj -> D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab7\Debug\Lab7.exe
