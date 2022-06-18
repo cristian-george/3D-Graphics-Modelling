@@ -1,0 +1,7 @@
+﻿  Lab9 blending.cpp
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab9 blending\Lab9 blending\Lab9 blending.cpp(51,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab9 blending\Lab9 blending\Lab9 blending.cpp(70,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab9 blending\Lab9 blending\Lab9 blending.cpp(70,53): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab9 blending\Lab9 blending\Lab9 blending.cpp(72,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab9 blending\Lab9 blending\Lab9 blending.cpp(72,57): warning C4305: '+=': truncation from 'double' to 'float'
+  Lab9 blending.vcxproj -> D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab9 blending\Debug\Lab9 blending.exe
