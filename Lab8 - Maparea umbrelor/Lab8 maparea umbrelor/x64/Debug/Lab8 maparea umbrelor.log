@@ -1,0 +1,48 @@
+﻿Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwGetWindowSize referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwSetFramebufferSizeCallback referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwSetCursorPosCallback referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwSetScrollCallback referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewActiveTexture referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewBindBuffer referenced in function "void __cdecl renderCube(void)" (?renderCube@@YAXXZ)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewBufferData referenced in function "void __cdecl renderCube(void)" (?renderCube@@YAXXZ)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewGenBuffers referenced in function "void __cdecl renderCube(void)" (?renderCube@@YAXXZ)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewAttachShader referenced in function "private: void __cdecl Shader::Init(char const *,char const *)" (?Init@Shader@@AEAAXPEBD0@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewCompileShader referenced in function "private: void __cdecl Shader::Init(char const *,char const *)" (?Init@Shader@@AEAAXPEBD0@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewCreateProgram referenced in function "private: void __cdecl Shader::Init(char const *,char const *)" (?Init@Shader@@AEAAXPEBD0@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewCreateShader referenced in function "private: void __cdecl Shader::Init(char const *,char const *)" (?Init@Shader@@AEAAXPEBD0@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewDeleteProgram referenced in function "public: __cdecl Shader::~Shader(void)" (??1Shader@@QEAA@XZ)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewDeleteShader referenced in function "private: void __cdecl Shader::Init(char const *,char const *)" (?Init@Shader@@AEAAXPEBD0@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewEnableVertexAttribArray referenced in function "void __cdecl renderCube(void)" (?renderCube@@YAXXZ)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramInfoLog referenced in function "private: void __cdecl Shader::CheckCompileErrors(unsigned int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?CheckCompileErrors@Shader@@AEAAXIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramiv referenced in function "private: void __cdecl Shader::CheckCompileErrors(unsigned int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?CheckCompileErrors@Shader@@AEAAXIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderInfoLog referenced in function "private: void __cdecl Shader::CheckCompileErrors(unsigned int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?CheckCompileErrors@Shader@@AEAAXIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderiv referenced in function "private: void __cdecl Shader::CheckCompileErrors(unsigned int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?CheckCompileErrors@Shader@@AEAAXIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewGetUniformLocation referenced in function "public: void __cdecl Shader::SetInt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)const " (?SetInt@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewLinkProgram referenced in function "private: void __cdecl Shader::Init(char const *,char const *)" (?Init@Shader@@AEAAXPEBD0@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewShaderSource referenced in function "private: void __cdecl Shader::Init(char const *,char const *)" (?Init@Shader@@AEAAXPEBD0@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewUniform1i referenced in function "public: void __cdecl Shader::SetInt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)const " (?SetInt@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewUniform3fv referenced in function "public: void __cdecl Shader::SetVec3(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct glm::vec<3,float,0> const &)const " (?SetVec3@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBU?$vec@$02M$0A@@glm@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewUniformMatrix4fv referenced in function "public: void __cdecl Shader::SetMat4(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct glm::mat<4,4,float,0> const &)const " (?SetMat4@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBU?$mat@$03$03M$0A@@glm@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewUseProgram referenced in function "public: void __cdecl Shader::Use(void)const " (?Use@Shader@@QEBAXXZ)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewVertexAttribPointer referenced in function "void __cdecl renderCube(void)" (?renderCube@@YAXXZ)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewBindFramebuffer referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewFramebufferTexture2D referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewGenFramebuffers referenced in function main
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewGenerateMipmap referenced in function "unsigned int __cdecl CreateTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?CreateTexture@@YAIAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewBindVertexArray referenced in function "void __cdecl renderCube(void)" (?renderCube@@YAXXZ)
+Lab8 maparea umbrelor.obj : error LNK2019: unresolved external symbol __imp___glewGenVertexArrays referenced in function "void __cdecl renderCube(void)" (?renderCube@@YAXXZ)
+..\..\_external\glfw-3.3.6.bin.WIN32\lib-vc2022\glfw3dll.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+..\..\_external\glew-2.1.0\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Facultate\ANUL 2\Semestrul 2\Sisteme moderne de modelare grafică 3D în C++\Laboratoare\Lab8 maparea umbrelor\x64\Debug\Lab8 maparea umbrelor.exe : fatal error LNK1120: 45 unresolved externals
